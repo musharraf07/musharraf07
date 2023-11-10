@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Musharraf </h1>
-<h3 align="center">A dedicated fronend developer based in Navi Mumbai,India.</h3>
+<h3 align="center">A passionate fronend developer based in Navi Mumbai,India.</h3>
 
 - 🏛️ I'm currently in my final year of BSc in Computer Science.(Mumbai University)
 
