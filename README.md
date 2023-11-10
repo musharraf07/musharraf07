@@ -3,11 +3,11 @@
 
 - 🏛️ I'm currently in my final year of BSc in Computer Science.(Mumbai University)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://musharrafportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio🚀](https://musharrafportfolio.netlify.app/)
 
-- 📫 How to reach me **musharraf.personal@gmail.com**
+- 📫 How to reach me **musharraf.personal@gmail.com** Gamil
 
-- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1XcC1DsyUvmNIWXqm2SalR30ZZiChwG4v/view?usp=drive_link)
+- 📄 Know about my experiences [Download Resume ](https://drive.google.com/file/d/1XcC1DsyUvmNIWXqm2SalR30ZZiChwG4v/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
