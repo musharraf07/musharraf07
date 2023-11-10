@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammed Musharraf Rahamathulla</h1>
 <h3 align="center">A dedicated fronend developer based in Navi Mumbai,India.</h3>
 
-- 👨‍💻 All of my projects are available at [https://musharrafportfolio.netlify.app/](Portfolio🚀)
+- 🏛️I'm currently in my final year of BSc in Computer Science.(Mumbai University)
+  
+- 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me ["mailto:musharraf.personal@gmail.com](Gmail)
+- 👨‍💻 All of my projects are available at [https://musharrafportfolio.netlify.app/](https://musharrafportfolio.netlify.app/)
+
+- 📫 How to reach me **musharraf.personal@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XcC1DsyUvmNIWXqm2SalR30ZZiChwG4v/view?usp=drive_link](https://drive.google.com/file/d/1XcC1DsyUvmNIWXqm2SalR30ZZiChwG4v/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
