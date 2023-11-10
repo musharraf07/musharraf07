@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Musharraf Rahamathulla</h1>
 <h3 align="center">A dedicated fronend developer based in Navi Mumbai,India.</h3>
 
-- 👨‍💻 All of my projects are available at [https://musharrafportfolio.netlify.app/](https://musharrafportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://musharrafportfolio.netlify.app/](Portfolio🚀)
 
-- 📫 How to reach me **https://www.linkedin.com/in/mohammedmusharraf/**
+- 📫 How to reach me ["mailto:musharraf.personal@gmail.com](Gmail)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
