@@ -7,7 +7,7 @@
 
 - 📫 How to reach me [📩 Gamil ](mailto:musharraf.personal@gmail.com/)
 
-- 📄 Know about my experiences [⬇️ Download Resume ](https://drive.google.com/file/d/1XcC1DsyUvmNIWXqm2SalR30ZZiChwG4v/view?usp=drive_link)
+- 📄 Know about my experiences [⬇️ Download Resume ](https://drive.google.com/file/d/1T69n9cwcagD8ljozOHjYAe2o8Zy_gfCW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
