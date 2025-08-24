@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed  </h1>
+<h1 align="center">Hi 👋, I'm Mohammed Musharraf  </h1>
 <h3 align="center">A passionate fronend developer based in Navi Mumbai,India.</h3>
 
 - 🏛️ I'm currently working as a Application developement associate in Accenture 
