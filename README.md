@@ -6,8 +6,8 @@
 - 👨‍💻 All of my projects are available at [📁 Portfolio](https://musharrafportfolio.netlify.app/)
 
 - 📫 How to reach me [📩 Gamil ](mailto:musharraf.personal@gmail.com/)
+- 📄 Know about my experiences [⬇️ Download Resume](https://drive.google.com/uc?export=download&id=1Odo4HTkP-IEfPbGr4R304jc6ks21VAaA)
 
-- 📄 Know about my experiences [⬇️ Download Resume ]([https://drive.google.com/file/d/1T69n9cwcagD8ljozOHjYAe2o8Zy_gfCW/view?usp=sharing](https://drive.google.com/file/d/1Odo4HTkP-IEfPbGr4R304jc6ks21VAaA/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
